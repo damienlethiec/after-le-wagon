@@ -2,17 +2,17 @@
 
 Hi there!
 
-You've just finished some of the most intensive and hardest weeks of your life. But you've made it! Congratulations, you are now fullstack developers able to build great web projects from scratch.
+You've just finished some of the most intensive and hardest weeks of your life. But you've made it! Congratulations, you are now full-stack developers able to build great web projects from scratch.
 
-But Le Wagon is just the beginning of a long journey. Being a developer is an incredibly rewarding position because you get to learn new things everyday. But it is also a challenging role. With this repository, I want to share with you some tips and resources to keep on improving you skills as efficiently as possible.
+But Le Wagon is just the beginning of a long journey. Being a developer is an incredibly rewarding position because you get to learn new things every day. But it is also a challenging role. With this repository, I want to share with you some tips and resources to keep on improving your skills as efficiently as possible.
 
 ## Solve your problems alone
 
-One of the most difficult things after Le Wagon is that you won't have teacher and TA anymore to help you everyday. Of course, you have Le Wagon community on Slack but it is not as instantaneous as a ticket. After Le Wagon, you should aim at being really autonomous to solve your code problems as soon as possible. To do this, you need 3 skills:
+One of the most difficult things after Le Wagon is that you won't have teacher and TA anymore to help you every day. Of course, you have Le Wagon community on Slack but it is not as instantaneous as a ticket. After Le Wagon, you should aim at being really autonomous to solve your code problems as soon as possible. To do this, you need 3 skills:
 
 ### Learn how to read your error messages
-During the bootcamp, you may have seen teachers solving problems you had been struggling on for dozens of minutes just by reading your error message. It takes some practise but learning how to find you error message and how to read it will solve 90% of your problems. Sometimes it will give you directly an answer, most of the time it will narrow the scope of the problem.
-Good developer are (almost) happy when they see an error message because they know it will help them solve their problem.
+During the bootcamp, you may have seen teachers solving problems you had been struggling on for dozens of minutes just by reading your error message. It takes some practice but learning how to find your error message and how to read it will solve 90% of your problems. Sometimes it will give you directly an answer, most of the time it will narrow the scope of the problem.
+Good developers are (almost) always happy when they see an error message because they know it will help them solve their problem.
 
 ### Become a binding.pry god
 When the error message does not directly give you an answer, learn how to debug with binding.pry (or debugger for javascript). Every time I see a bug I don't quite understand, the first thing I do is put a binding.pry in my code to see what is going on and how do my variables look like at this specific moment.
@@ -24,7 +24,7 @@ When you are facing a problem you really don't know, get used to Google it. 99.9
 
 ## How to progress after Le Wagon
 
-Here are my personal advices about how to progress after Le Wagon. I myself did/read half of them and heard really good reviews from Le Wagon alumnus about the other ones. You can find free PDF of most of the following books on the web but, if you can, please support the authors ;)
+Here are my personal advice about how to progress after Le Wagon. I myself did/read half of them and heard really good reviews from Le Wagon alumnus about the other ones. You can find free PDF of most of the following books on the web but, if you can, please support the authors ;)
 
 ### Improve your Ruby skills
 
@@ -69,7 +69,7 @@ Why not improving your Git skills. I will be really valuable.
 
 ## When you are a Ruby, Rails and Javascript master
 
-Web development is full of hype. However, I would not recommend you to learn the last Javascript library (I know you want to ;) ) just after Le Wagon. Take the time to master your existing skills before diving into something more advanced alone. Bellow are some options for when you feel comfortable (no real reading list, I am an expert in none of these technologies).
+Web development is full of hype. However, I would not recommend you to learn the last Javascript library (I know you want to ;) ) just after Le Wagon. Take the time to master your existing skills before diving into something more advanced alone. Below are some options for when you feel comfortable (no real reading list, I am an expert in none of these technologies).
 
 ### Focus on front-end
 
@@ -82,11 +82,11 @@ Web development is full of hype. However, I would not recommend you to learn the
 
 ### Go back to the roots to became a real software engineer
 
-1) It is not to late to learn Computer Science. Here is [a program I plan to do one day](https://teachyourselfcs.com/)
+1) It is not too late to learn Computer Science. Here is [a program I plan to do one day](https://teachyourselfcs.com/)
 
 ## Other important resources
 
-You should know about some resources. They will help you a ton in your code everyday. Here is a list of the main ones I can think of.
+You should know about some resources. They will help you a ton in your code every day. Here is a list of the main ones I can think of.
 
 - [CSS](http://cssreference.io/) and [HTML](http://htmlreference.io/) references
 - [Awesome Ruby](https://github.com/markets/awesome-ruby)
@@ -96,4 +96,4 @@ You should know about some resources. They will help you a ton in your code ever
 
 ## Contributing
 
-If you are teacher, TA or experienced alumni, do not hesitate to fork this repository and send me pull request to improve this learning path. I am sure it could be much better ;)
+If you are a teacher, TA or experienced alumni of Le Wagon, do not hesitate to fork this repository and send me a pull request to improve this learning path. I am sure it could be much better ;)
