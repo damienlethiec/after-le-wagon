@@ -50,7 +50,7 @@ Because of course!
 
 1) Read [RailsAntiPatterns](https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814)
 
-### Get fluent with Javascript
+### Get fluent in Javascript
 
 Javascript is primordial but you don't know it well after Le Wagon. Take some time to improve your skills.
 
