@@ -24,7 +24,7 @@ When you are facing a problem you really don't know, get used to Google it. 99.9
 
 ## How to progress after Le Wagon
 
-Here are my personal advices about how to progress after Le Wagon. I myself did/read half of them and heard really good reviews from other Le Wagon alumni about the other ones. You can find free PDF of most of the following books on the web but, if you can, please support the authors ;)
+Here are my personal advices about how to progress after Le Wagon. I myself did/read half of them and heard really good reviews from Le Wagon alumnus about the other ones. You can find free PDF of most of the following books on the web but, if you can, please support the authors ;)
 
 ### Improve your Ruby skills
 
@@ -94,3 +94,6 @@ You should know about some resources. They will help you a ton in your code ever
 - [Ruby Weekly](http://rubyweekly.com/) newsletter
 
 
+## Contributing
+
+If you are teacher, TA or experienced alumni, do not hesitate to fork this repository and send me pull request to improve this learning path. I am sure it could be much better ;)
