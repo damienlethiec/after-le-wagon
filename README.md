@@ -8,23 +8,23 @@ But Le Wagon is just the beginning of a long journey. Being a developer is an in
 
 ## Solve your problems alone
 
-One of the most difficult things after Le Wagon is that you won't have teacher and TA anymore to help you every day. Of course, you have Le Wagon community on Slack but it is not as instantaneous as a ticket. After Le Wagon, you should aim at being really autonomous to solve your code problems as soon as possible. To do this, you need 3 skills:
+One of the most difficult things after Le Wagon is that you won't have teachers and TA anymore to help you every day. Of course, you have Le Wagon community on Slack but it is not as instantaneous as a ticket. After Le Wagon, you should aim at being really autonomous to solve your code problems as soon as possible. To do this, you need 3 skills:
 
-### Learn how to read your error messages
-During the bootcamp, you may have seen teachers solving problems you had been struggling on for dozens of minutes just by reading your error message. It takes some practice but learning how to find your error message and how to read it will solve 90% of your problems. Sometimes it will give you directly an answer, most of the time it will narrow the scope of the problem.
-Good developers are (almost) always happy when they see an error message because they know it will help them solve their problem.
+### Learn to read your error messages
+During the bootcamp, you may have seen teachers solving problems you had been struggling on for dozens of minutes just by reading your error message. It takes some practice but learning how to find your error messages and how to read them will solve 90% of your problems. Sometimes it will give you directly an answer, most of the time it will narrow the scope of the problem.
+Good developers are (almost) always happy when they see an error message because they know it will help them solve their bug.
 
 ### Become a binding.pry god
-When the error message does not directly give you an answer, learn how to debug with binding.pry (or debugger for javascript). Every time I see a bug I don't quite understand, the first thing I do is put a binding.pry in my code to see what is going on and how do my variables look like at this specific moment.
-With good binding.pry skills, you will rock in the developer world.
+When the error message does not directly give you an answer, learn how to debug with `binding.pry` (or `debugger` for javascript). Every time I see a bug I don't quite understand, the first thing I do is put a b`inding.pry` in my code to see what is going on and how do my variables look like at this specific moment.
+With good `binding.pry` skills, you will rock in the developer world.
 P.S: Aaron Patterson, one of the most famous Ruby developer, is a "puts debugger". It is another way to deal with errors. Enjoy [this article](https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html) to learn more.
 
-### Learn how to Google a problem
+### Learn to Google a problem
 When you are facing a problem you really don't know, get used to Google it. 99.9% of the times, you will find somebody who had a pretty similar problem on StackOverflow. Google skills are the most important ones for a developer.
 
 ## How to progress after Le Wagon
 
-Here are my personal advice about how to progress after Le Wagon. I myself did/read half of them and heard really good reviews from Le Wagon alumnus about the other ones. You can find free PDF of most of the following books on the web but, if you can, please support the authors ;)
+Here are my personal advice on how to progress after Le Wagon. I myself did/read half of the resources and heard really good reviews from Le Wagon alumnus about the other ones. You can find free PDF of most of the following books on the web but, if you can, please support the authors ;)
 
 ### Improve your Ruby skills
 
@@ -52,10 +52,10 @@ Because of course!
 
 ### Get fluent with Javascript
 
-Javascript is primordial but you don't know it well after Le Wagon. Take time to improve your skills.
+Javascript is primordial but you don't know it well after Le Wagon. Take some time to improve your skills.
 
-1) Do the free web course [Javascript30](https://javascript30.com/) by Wes Bos
-2) Learn the last javascript syntax with [ES6 for everyone](https://es6.io/), still by Wes Bos.
+1) Do the free [Javascript30](https://javascript30.com/)web course
+2) Learn the last Javascript syntax with [ES6 for everyone](https://es6.io/)
 
 #### To go further
 
@@ -63,7 +63,7 @@ Javascript is primordial but you don't know it well after Le Wagon. Take time to
 
 ### Others
 
-Why not improving your Git skills. I will be really valuable.
+Why not improving your Git skills. They will be really valuable.
 
 1) Read [Pro Git](https://git-scm.com/book/fr/v2), it is free
 
@@ -79,6 +79,10 @@ Web development is full of hype. However, I would not recommend you to learn the
 ### Try something different in back-end
 
 1) Learn a functional language. Elixir and Phoenix (the most popular framework for Elixir) are great choices for Rubyist as Elixir was written by a former Rails core contributor.
+
+### Become a mobile developer
+
+1) Learn React Native (and plug it to a Rails API) to build native applications on mobile
 
 ### Go back to the roots to became a real software engineer
 
