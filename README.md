@@ -2,11 +2,11 @@
 
 Hi there!
 
-You've just finished some of the most intensive and hardest weeks of your life. But you've made it! And you are now fullstack developers, able to build great web projects from scratch.
+You've just finished some of the most intensive and hardest weeks of your life. But you've made it! Congratulations, you are now fullstack developers able to build great web projects from scratch.
 
-But Le Wagon is just the beginning of a long journey. Being a developer is an incredibly rewarding position because you get to learn new things everyday. With this repository, I want to share with you some tips and resources to keep on improving you skills as efficiently as possible.
+But Le Wagon is just the beginning of a long journey. Being a developer is an incredibly rewarding position because you get to learn new things everyday. But it is also a challenging role. With this repository, I want to share with you some tips and resources to keep on improving you skills as efficiently as possible.
 
-## Solve your problems
+## Solve your problems alone
 
 One of the most difficult things after Le Wagon is that you won't have teacher and TA anymore to help you everyday. Of course, you have Le Wagon community on Slack but it is not as instantaneous as a ticket. After Le Wagon, you should aim at being really autonomous to solve your code problems as soon as possible. To do this, you need 3 skills:
 
@@ -48,7 +48,7 @@ Because of course!
 
 #### To go further
 
-1) [RailsAntiPatterns](https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814)
+1) Read [RailsAntiPatterns](https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814)
 
 ### Get fluent with Javascript
 
@@ -85,6 +85,8 @@ Web development is full of hype. However, I would not recommend you to learn the
 1) It is not to late to learn Computer Science. Here is [a program I plan to do one day](https://teachyourselfcs.com/)
 
 ## Other important resources
+
+You should know about some resources. They will help you a ton in your code everyday. Here is a list of the main ones I can think of.
 
 - [CSS](http://cssreference.io/) and [HTML](http://htmlreference.io/) references
 - [Awesome Ruby](https://github.com/markets/awesome-ruby)
