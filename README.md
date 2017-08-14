@@ -35,12 +35,11 @@ Here are my personal advice on how to progress after Le Wagon. I myself did/read
 If you know Ruby well, Rails will be so much easier!
 
 1) Read [Eloquent Ruby](http://eloquentruby.com/)
-2) Read [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
+2) Read [99 bottles of OOP](https://www.sandimetz.com/99bottles/)
 
 #### To go further
 
-1) If you liked Practical Object-Oriented Design in Ruby, read [99 bottles of OOP](https://www.sandimetz.com/99bottles/)
-2) Subscribe to [Ruby Tapas](https://www.rubytapas.com/)
+1) Subscribe to [Ruby Tapas](https://www.rubytapas.com/)
 
 ### Master Rails
 
