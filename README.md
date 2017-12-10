@@ -59,7 +59,7 @@ StackOverflow but are sometimes more qualitative/recent !
 ## How to progress after Le Wagon
 
 Here are my personal advice on how to progress after Le Wagon. I myself did/read
-half of the resources and heard really good reviews from Le Wagon alumnis about
+half of the resources and heard really good reviews from Le Wagon alumni about
 the other ones. You can find free PDF of most of the following books on the web
 but, if you can, please support the authors. ;)
 
@@ -82,8 +82,6 @@ If you know Ruby well, Rails will be so much easier!
 
 1. Read [Eloquent Ruby]
 1. Read [99 bottles of OOP]
-1. Do you Remember the "old days" when you were running Rubocop tests in your
-   terminal ? Do you run any still ? I'm sure you do. But let's [automate] it !
 
 #### To go further
 
@@ -108,8 +106,8 @@ Javascript is primordial but you don't know it well after Le Wagon. Take some
    start learning JavaScript. He have a good amount of free stuff. And some
    other paid ones.
 
-1. You fall asleep during LeWagon's morning classes ? Want to know the crazy new
-   hot stuff like ES6, ES7 and ESNext ? [ES6 for everyone] (paid)
+1. Want to know the crazy new hot stuff like ES6, ES7 and ESNext ? Check
+   [ES6 for everyone] (paid)
 1. Want to make 1 awesome challenge per day ? Feel the need to practice ?
    Say hello to [JavasScript30].
 
@@ -128,8 +126,8 @@ list, I am an expert in none of these technologies).
 
 ### Go back to the roots to became a real software engineer
 
-1. It is not too late to learn Computer Science. Here is
-   [a program I plan to do one day].
+1. It is not too late to learn Computer Science. Here is [a program I will do in
+   2018]. We built an awesome community around it, join our [Discord].
 
 ### Try something different in back-end
 
@@ -146,38 +144,25 @@ list, I am an expert in none of these technologies).
 
 1. Learn how to structure properly your vanilla CSS with [BEM]: for reusable
    components & a real naming convention for your next big projects.
-1. Then, show your skills to the entire world on [Codepen] by sharing some
-   [next level Japanese Sushi Toggle Button] ! :yum:
-1. Of course, your Codepen profile can be written in something a bit more
-   advanced if you wish. Why not [Stylus] (some cool features and ponctuation
-   free) and [Haml] (_a bit_ more readable HTML) ?
 1. Bootstrap is nice but you want to discover other CSS frameworks ? There are
-   plenty of them, like [Materialize], [Bulma] or [Carbon Design System].
+   plenty of them, like [Materialize], [Bulma] or [Carbon Design System]. Check
+   out [Haml] for _a bit_ more readable HTML too ! :D
 1. Want to know what Bootstrap does behind the scenes in it's 4th version ? Wes
    has a free [Flexbox] lesson just for you ! You'll see that it's helps a lot
    for some homemade responsive Webdesign.
-1. CSS Grid is another cool feature released not so long ago. We don't have any
-   goods links here but feel free to pull request one ! :smirk:
-1. Tell me something, do you like the animations of this [studio] ? It's using
-   [Greensock], part of it is free and it allows you to make some awesome
-   design effects. [Petr Tichy] has some free lessons on it !
 
-### Become a mobile developer
+### Discover a front end framework
 
-1. Learn a trendy JS library (ReactJS or Vue.js for example). One of the best
+1. Learn a trendy JS library (React or Vue.js for example). One of the best
    website for updated lessons is [egghead]. I do personnaly have a subscription
    as it allows to quickly get introduced to new topics before going deeper by
    yourself if it catches your interest (it is sometimes written directly by
    the founders too) !
-1. Get hyped of the possibilites of React Native by this [presentation] of
-    Sébastien Saunier.
-1. Learn a bit more of how to link React to your Rails app with these pair of
-   [slides].
+1. Get hyped of the possibilites of ReactJS and how to pair it to your Rails app
+   with these [slides].
 1. Then, if you're conviced and want to create native mobile apps for Android &
    iPhone, feel free to buy some [Full Stack courses] from Stephen Grider !
    :tada: They aren't very expensive, 10$ each.
-1. If you're not really into JavaScript, you can try some new things like
-   [Jekyll], [Middleman] (for a portfolio) or [Hanami] (similar to Rails).
 
 #### Geeky stuff / Linux enthusiasts
 
@@ -188,16 +173,8 @@ list, I am an expert in none of these technologies).
 
 <img src="https://i.redd.it/rh3n3dxby8fy.png" width="600">
 
-* The code editor is the most important tool for a developer. Take the time to
-   try some new stuff like [Atom] or [VScode], the other 2 popular ones besides
-   Sublime at the moment. And take the time to [custom] some nice theme, font &
-   ligatures. In pair with a [js linter], of course.
-
-<img src="https://cdn-images-1.medium.com/max/553/1*hE_nLB776KUDXPERE_3cXw.png"
-  width="400">
-
-* With the recent version of Rails (`5.1`), you should have heard the name of
-  [Webpack]. If you're a bit interested in how it works, click on the link. :)
+* Do you Remember the "old days" when you were running Rubocop tests in your
+   terminal ? Do you run any still ? I'm sure you do. But let's [automate] them!
 * You will probably not stay on Heroku forever for reasons. If you want to
    know how to deploy your website by yourself, check this tutorial on the combo
    [Dokku + DigitalOcean] !
@@ -245,7 +222,6 @@ am sure it could be much better. ;) :sparkles:
 [The Phoenix Project]: https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
 [Eloquent Ruby]: http://eloquentruby.com/
 [99 bottles of OOP]: https://www.sandimetz.com/99bottles/
-[automate]: https://medium.com/@adrienpoly/add-rubocop-and-guard-to-your-rails-app-bf7a19634de5
 [Ruby Tapas]: https://www.rubytapas.com/
 [Rails guides]: http://guides.rubyonrails.org/
 [The Rails 5 Way]: https://leanpub.com/tr5w
@@ -256,28 +232,20 @@ am sure it could be much better. ;) :sparkles:
 [JavasScript30]: https://javascript30.com/
 [You don't know JS]: https://github.com/getify/You-Dont-Know-JS
 [JavaScript: The Good Parts]: http://shop.oreilly.com/product/9780596517748.do
-[a program I plan to do one day]: https://teachyourselfcs.com/
+[a program I will do in 2018]: https://teachyourselfcs.com/
+[Discord]: https://jointeachyourselfcs.carrd.co/
 [Elixir]: http://elixir-lang.github.io/
 [Phoenix]: http://phoenixframework.org/
 [Data Analyst Nanodegree on Udacity]: https://www.udacity.com/course/data-analyst-nanodegree--nd002
 [BEM]: http://getbem.com/
-[Codepen]: https://codepen.io/
-[next level Japanese Sushi Toggle Button]: https://codepen.io/chrisgannon/full/zEVjKg/
 [Stylus]: http://stylus-lang.com/
-[Haml]: http://haml.info/
 [Materialize]: http://materializecss.com/
 [Bulma]: https://bulma.io/
 [Carbon Design System]: http://carbondesignsystem.com/components/overview
+[Haml]: http://haml.info/
 [Flexbox]: https://flexbox.io/
-[studio]: http://www.climber.io/
-[Greensock]: https://greensock.com/gsap
-[Petr Tichy]: https://ihatetomatoes.net/
 [egghead]: https://egghead.io/
-[presentation]: https://youtu.be/_ZTT9kw3PIE
 [slides]: http://slides.com/fcatuhe/react-on-rails#/
-[Jekyll]: https://jekyllrb.com/
-[Middleman]: https://middlemanapp.com/
-[Hanami]: http://hanamirb.org/
 [Full Stack courses]: https://www.rallycoding.com/
 [resource]: https://lewagon-alumni.slack.com/files/U04E9FXS0/F0FQC6QKW/Le_Wagon__et_apres__
 [CSS]: http://cssreference.io/
@@ -289,11 +257,7 @@ am sure it could be much better. ;) :sparkles:
 [Exercism]: http://exercism.io/
 [BSPWM]: https://www.google.fr/search?q=bspwm+rice&dcr=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjUppOf6P7XAhWFCuwKHat6DhsQ_AUICigB&biw=1920&bih=940
 [i3-gaps]: https://youtu.be/J07s8C8IvT4
-[Atom]: https://atom.io/
-[VScode]: https://code.visualstudio.com/
-[custom]: https://medium.com/@docodemore/an-alternative-to-operator-mono-font-6e5d040e1c7e
-[js linter]: https://eslint.org/
-[Webpack]: https://www.youtube.com/watch?v=_KXGVca8uXw&list=PLjwdMgw5TTLVzGXGxEBdjwHXCeYnBb7n8
+[automate]: https://medium.com/@adrienpoly/add-rubocop-and-guard-to-your-rails-app-bf7a19634de5
 [Dokku + DigitalOcean]: http://www.rubyfleebie.com/how-to-use-dokku-on-digitalocean-and-deploy-rails-applications-like-a-pro/
 [Syntax]: https://syntax.fm/
 [LevelUpTuts]: https://www.youtube.com/user/LevelUpTuts
