@@ -74,7 +74,6 @@ I was doing Le Wagon today, I would read the resources below directly after it.
    [Computer Science Distilled]. Best book ever!
 1. Improve your Git level by reading
    [Ry's Git Tutorial], it is free and amazing!
-1. Enjoy a funny dive into DevOps with [The Phoenix Project].
 
 ### Improve your Ruby skills
 
@@ -101,13 +100,10 @@ Because of course!
 
 ### Get fluent in Javascript
 
-Javascript is primordial but you don't know it well after Le Wagon. Take some
-   time to improve your skills. [Wes Bos] :crown: is one of the best teacher to
-   start learning JavaScript. He have a good amount of free stuff. And some
-   other paid ones.
+Javascript is primordial but you don't know it well after Le Wagon. Take some time to improve your skills. [Wes Bos] :crown: is one of the best teacher to start learning JavaScript. He has a good amount of free stuff.
 
 1. Want to know the crazy new hot stuff like ES6, ES7 and ESNext ? Check
-   [ES6 for everyone] (paid)
+   [ES6 for everyone](paid)
 1. Want to make 1 awesome challenge per day ? Feel the need to practice ?
    Say hello to [JavasScript30].
 
@@ -145,47 +141,23 @@ list, I am an expert in none of these technologies).
 1. Learn how to structure properly your vanilla CSS with [BEM]: for reusable
    components & a real naming convention for your next big projects.
 1. Bootstrap is nice but you want to discover other CSS frameworks ? There are
-   plenty of them, like [Materialize], [Bulma] or [Carbon Design System]. Check
-   out [Haml] for _a bit_ more readable HTML too ! :D
-1. Want to know what Bootstrap does behind the scenes in it's 4th version ? Wes
-   has a free [Flexbox] lesson just for you ! You'll see that it's helps a lot
-   for some homemade responsive Webdesign.
+   [plenty of them]. Check out [Haml] for _a bit_ more readable HTML too ! :D
+1. Discover [Flexbox] and CSS Grid !
 
 ### Discover a front end framework...and go into mobile
 
-1. Learn a trendy JS library (React or Vue.js for example). One of the best
-   website for updated lessons is [egghead]. I do personnaly have a subscription
-   as it allows to quickly get introduced to new topics before going deeper by
-   yourself if it catches your interest (it is sometimes written directly by
-   the founders too) !
-1. Get hyped of the possibilites of ReactJS and how to pair it to your Rails app
+1. Learn a trendy JS library (React or Vue.js for example) in [egghead]. Get a paid subscription, it is worthy.
+1. Go through [this blog posts serie] by a former Le Wagon student to setup your front in Rails
+1. Get hyped by the possibilites of ReactJS and how to pair it to your Rails app
    with these [slides].
 1. Then, if you're conviced and want to create native mobile apps for Android &
-   iPhone, feel free to buy some [Full Stack courses] from Stephen Grider !
-   :tada: They aren't very expensive, 10$ each.
+   iPhone, learn React Native with these [Full Stack courses] from Stephen Grider !
+   :tada:
 
-#### Linux enthusiasts
+#### Get into DevOps
 
-1. Do you Remember the "old days" when you were running Rubocop tests in your
-   terminal ? Do you run any still ? I'm sure you do. But let's [automate] them!
-1. You will probably not stay on Heroku forever for reasons. If you want to
-   know how to deploy your website by yourself, check this tutorial on the combo
-   [Dokku + DigitalOcean] !
-
-### Tasty treats for Web developers
-
-I personally enjoy podcasts a lot. You can listen to them anywhere (bus, car
-etc...), there a plenty of them and it's a great way to be aware of the trends
-while being busy doing something else.
-
-1. One of them is [Syntax], by Wes Bos & Scott Tolinski, creator of
-   [LevelUpTuts], a cool dude too. Their show is so funny and you learn a lot of
-   things about pretty much all.
-1. [Le Ruby Nouveau] is a more classic one but it's nice too. Oh and they have a
-   [Slack] too, join it. As my Grand Ma always says: the more Ruby Devs,
-   the better ! :muscle:
-1. [The Web Ahead], didn't listened to it yet but some people recommended it to
-   me, so it's probably nice.
+1. Enjoy a funny dive into DevOps with [The Phoenix Project].
+1. If you want to know how to deploy your website outside of Heroku, check this tutorial on the combo [Dokku + DigitalOcean] !
 
 ## Other important resources
 
@@ -194,12 +166,14 @@ every day. Here is a list of the main ones I can think of.
 
 1. [CSS] and [HTML] references
 1. [Awesome Ruby]
-1. A [resource] from Sylvain Peigney, similar to this topic with a ton of
-   miscellaneous cools links ! :star2:
 1. [Ruby] and [Rails] style guides
 1. [Ruby Weekly] newsletter
 1. [Exercism] to test your skills with great coding challenges
 1. [Ruby Monk], chill design & enteresting exercices
+1. Cool potcasts like [Syntax] and [Le Ruby Nouveau]
+1. How to [automate] your linting in Rails with Rubocop (+ don't forget to integrate it in your text editor)
+1. Do you want more? Check this [resource] by a former student with a ton of
+   miscellaneous cools links ! :star2:
 
 ## Contributing
 
@@ -208,53 +182,49 @@ fork this repository and send me a pull request to improve this learning path. I
 am sure it could be much better. ;) :sparkles:
 
 [this article]: https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html
-[Reddit]: https://www.reddit.com/r/rails/
+[reddit]: https://www.reddit.com/r/rails/
 [issues]: https://github.com/rails/rails/issues
-[Computer Science Distilled]: https://leanpub.com/computer-science-distilled
-[Ry's Git Tutorial]: https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC
-[The Phoenix Project]: https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
-[Eloquent Ruby]: http://eloquentruby.com/
-[99 bottles of OOP]: https://www.sandimetz.com/99bottles/
-[Ruby Tapas]: https://www.rubytapas.com/
-[Rails guides]: http://guides.rubyonrails.org/
-[The Rails 5 Way]: https://leanpub.com/tr5w
-[Rails Anti-Patterns]: https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814
-[Go Rails]: https://gorails.com
-[Wes Bos]: https://twitter.com/wesbos
-[ES6 for everyone]: https://es6.io/
-[JavasScript30]: https://javascript30.com/
-[You don't know JS]: https://github.com/getify/You-Dont-Know-JS
-[JavaScript: The Good Parts]: http://shop.oreilly.com/product/9780596517748.do
-[a program I will do in 2018]: https://teachyourselfcs.com/
-[Discord]: https://jointeachyourselfcs.carrd.co/
-[Elixir]: http://elixir-lang.github.io/
-[Phoenix]: http://phoenixframework.org/
-[Data Analyst Nanodegree on Udacity]: https://www.udacity.com/course/data-analyst-nanodegree--nd002
-[BEM]: http://getbem.com/
-[Stylus]: http://stylus-lang.com/
-[Materialize]: http://materializecss.com/
-[Bulma]: https://bulma.io/
-[Carbon Design System]: http://carbondesignsystem.com/components/overview
-[Haml]: http://haml.info/
-[Flexbox]: https://flexbox.io/
+[computer science distilled]: https://leanpub.com/computer-science-distilled
+[ry's git tutorial]: https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC
+[the phoenix project]: https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
+[eloquent ruby]: http://eloquentruby.com/
+[99 bottles of oop]: https://www.sandimetz.com/99bottles/
+[ruby tapas]: https://www.rubytapas.com/
+[rails guides]: http://guides.rubyonrails.org/
+[the rails 5 way]: https://leanpub.com/tr5w
+[rails anti-patterns]: https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814
+[go rails]: https://gorails.com
+[wes bos]: https://twitter.com/wesbos
+[es6 for everyone]: https://es6.io/
+[javasscript30]: https://javascript30.com/
+[you don't know js]: https://github.com/getify/You-Dont-Know-JS
+[javascript: the good parts]: http://shop.oreilly.com/product/9780596517748.do
+[a program i will do in 2018]: https://teachyourselfcs.com/
+[discord]: https://jointeachyourselfcs.carrd.co/
+[elixir]: http://elixir-lang.github.io/
+[phoenix]: http://phoenixframework.org/
+[data analyst nanodegree on udacity]: https://www.udacity.com/course/data-analyst-nanodegree--nd002
+[bem]: http://getbem.com/
+[materialize]: http://materializecss.com/
+[bulma]: https://bulma.io/
+[carbon design system]: http://carbondesignsystem.com/components/overview
+[haml]: http://haml.info/
+[flexbox]: https://flexbox.io/
 [egghead]: https://egghead.io/
 [slides]: http://slides.com/fcatuhe/react-on-rails#/
-[Full Stack courses]: https://www.rallycoding.com/
+[full stack courses]: https://www.rallycoding.com/
 [resource]: https://lewagon-alumni.slack.com/files/U04E9FXS0/F0FQC6QKW/Le_Wagon__et_apres__
-[CSS]: http://cssreference.io/
-[HTML]: http://htmlreference.io/
-[Awesome Ruby]: https://github.com/markets/awesome-ruby
-[Ruby]: https://github.com/bbatsov/ruby-style-guide
-[Rails]: https://github.com/bbatsov/rails-style-guide/
-[Ruby Weekly]: http://rubyweekly.com/
-[Exercism]: http://exercism.io/
-[BSPWM]: https://www.google.fr/search?q=bspwm+rice&dcr=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjUppOf6P7XAhWFCuwKHat6DhsQ_AUICigB&biw=1920&bih=940
-[i3-gaps]: https://youtu.be/J07s8C8IvT4
+[css]: http://cssreference.io/
+[html]: http://htmlreference.io/
+[awesome ruby]: https://github.com/markets/awesome-ruby
+[ruby]: https://github.com/bbatsov/ruby-style-guide
+[rails]: https://github.com/bbatsov/rails-style-guide/
+[ruby weekly]: http://rubyweekly.com/
+[exercism]: http://exercism.io/
 [automate]: https://medium.com/@adrienpoly/add-rubocop-and-guard-to-your-rails-app-bf7a19634de5
-[Dokku + DigitalOcean]: http://www.rubyfleebie.com/how-to-use-dokku-on-digitalocean-and-deploy-rails-applications-like-a-pro/
-[Syntax]: https://syntax.fm/
-[LevelUpTuts]: https://www.youtube.com/user/LevelUpTuts
-[Le Ruby Nouveau]: https://lerubynouveau.fr/
-[Slack]: http://parisrb-slack-invite.herokuapp.com/
-[The Web Ahead]: http://thewebahead.net/
-[Ruby Monk]: https://rubymonk.com/
+[dokku + digitalocean]: http://www.rubyfleebie.com/how-to-use-dokku-on-digitalocean-and-deploy-rails-applications-like-a-pro/
+[syntax]: https://syntax.fm/
+[le ruby nouveau]: https://lerubynouveau.fr/
+[ruby monk]: https://rubymonk.com/
+[this blog post serie]: https://evilmartians.com/chronicles/evil-front-part-1
+[plenty of them]: https://github.com/sotayamashita/awesome-css#frameworks-art
