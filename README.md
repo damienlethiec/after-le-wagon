@@ -159,7 +159,7 @@ list, I am an expert in none of these technologies).
 1. CSS Grid is another cool feature released not so long ago. We don't have any
    goods links here but feel free to pull request one ! :smirk:
 1. Tell me something, do you like the animations of this [studio] ? It's using
-   [Greensock], part of it is free and it allow you to make some awesome
+   [Greensock], part of it is free and it allows you to make some awesome
    design effects. [Petr Tichy] has some free lessons on it !
 
 ### Become a mobile developer
@@ -190,8 +190,8 @@ list, I am an expert in none of these technologies).
 
 * The code editor is the most important tool for a developer. Take the time to
    try some new stuff like [Atom] or [VScode], the other 2 popular ones besides
-   Sublime. And take the time to [custom] some nice theme, font & ligatures. In
-   pair with a [js linter], of course.
+   Sublime at the moment. And take the time to [custom] some nice theme, font &
+   ligatures. In pair with a [js linter], of course.
 
 <img src="https://cdn-images-1.medium.com/max/553/1*hE_nLB776KUDXPERE_3cXw.png"
   width="400">
