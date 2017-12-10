@@ -164,14 +164,7 @@ list, I am an expert in none of these technologies).
    iPhone, feel free to buy some [Full Stack courses] from Stephen Grider !
    :tada: They aren't very expensive, 10$ each.
 
-#### Geeky stuff / Linux enthusiasts
-
-1. You're not an Apple fan but find Ubuntu's Unity desktop a bit too meh ? Try
-   out a new Desktop Environement like [BSPWM] or [i3-gaps] and you'll discover
-   the world of Tiling window managers. You'll be more productive than ever if
-   you like the concept ! :rocket:
-
-<img src="https://i.redd.it/rh3n3dxby8fy.png" width="600">
+#### Linux enthusiasts
 
 1. Do you Remember the "old days" when you were running Rubocop tests in your
    terminal ? Do you run any still ? I'm sure you do. But let's [automate] them!
