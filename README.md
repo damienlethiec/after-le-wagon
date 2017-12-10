@@ -49,6 +49,14 @@ When you are facing a problem you really don't know, get used to Google it.
 99.9% of the times, you will find somebody who had a pretty similar problem on
 StackOverflow. Google skills are the most important ones for a developer.
 
+Other places you can find some help are: [Reddit](https://www.reddit.com/r/rails/)
+and also directly on Github, in the [issues](https://github.com/rails/rails/issues)
+section. There, you can ask your question to people working with the same tool
+as you. Sometimes you also get a reply directly from the creator of the project.
+
+I'm talking about these two because they are not as much referenced as
+StackOverflow but are sometimes more qualitative/recent !
+
 ## How to progress after Le Wagon
 
 Here are my personal advice on how to progress after Le Wagon. I myself did/read
