@@ -140,7 +140,7 @@ list, I am an expert in none of these technologies).
 1. I am currently following the [Data Analyst Nanodegree on Udacity]. It have
    been great so far!
 
-### Focus on front-end
+### Get into web design
 
 1. Learn how to structure properly your vanilla CSS with [BEM]: for reusable
    components & a real naming convention for your next big projects.
@@ -151,7 +151,7 @@ list, I am an expert in none of these technologies).
    has a free [Flexbox] lesson just for you ! You'll see that it's helps a lot
    for some homemade responsive Webdesign.
 
-### Discover a front end framework
+### Discover a front end framework...and go into mobile
 
 1. Learn a trendy JS library (React or Vue.js for example). One of the best
    website for updated lessons is [egghead]. I do personnaly have a subscription
