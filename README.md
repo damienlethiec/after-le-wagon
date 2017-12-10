@@ -166,16 +166,16 @@ list, I am an expert in none of these technologies).
 
 #### Geeky stuff / Linux enthusiasts
 
-* You're not an Apple fan but find Ubuntu's Unity desktop a bit too meh ? Try
+1. You're not an Apple fan but find Ubuntu's Unity desktop a bit too meh ? Try
    out a new Desktop Environement like [BSPWM] or [i3-gaps] and you'll discover
    the world of Tiling window managers. You'll be more productive than ever if
    you like the concept ! :rocket:
 
 <img src="https://i.redd.it/rh3n3dxby8fy.png" width="600">
 
-* Do you Remember the "old days" when you were running Rubocop tests in your
+1. Do you Remember the "old days" when you were running Rubocop tests in your
    terminal ? Do you run any still ? I'm sure you do. But let's [automate] them!
-* You will probably not stay on Heroku forever for reasons. If you want to
+1. You will probably not stay on Heroku forever for reasons. If you want to
    know how to deploy your website by yourself, check this tutorial on the combo
    [Dokku + DigitalOcean] !
 
@@ -199,14 +199,14 @@ while being busy doing something else.
 You should know about some resources. They will help you a ton in your code
 every day. Here is a list of the main ones I can think of.
 
-* [CSS] and [HTML] references
-* [Awesome Ruby]
-* A [resource] from Sylvain Peigney, similar to this topic with a ton of
+1. [CSS] and [HTML] references
+1. [Awesome Ruby]
+1. A [resource] from Sylvain Peigney, similar to this topic with a ton of
    miscellaneous cools links ! :star2:
-* [Ruby] and [Rails] style guides
-* [Ruby Weekly] newsletter
-* [Exercism] to test your skills with great coding challenges
-* [Ruby Monk], chill design & enteresting exercices
+1. [Ruby] and [Rails] style guides
+1. [Ruby Weekly] newsletter
+1. [Exercism] to test your skills with great coding challenges
+1. [Ruby Monk], chill design & enteresting exercices
 
 ## Contributing
 
