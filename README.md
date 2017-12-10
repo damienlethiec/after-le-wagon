@@ -103,7 +103,7 @@ Because of course!
 Javascript is primordial but you don't know it well after Le Wagon. Take some time to improve your skills. [Wes Bos] :crown: is one of the best teacher to start learning JavaScript. He has a good amount of free stuff.
 
 1. Want to know the crazy new hot stuff like ES6, ES7 and ESNext ? Check
-   [ES6 for everyone](paid)
+   [ES6 for everyone]
 1. Want to make 1 awesome challenge per day ? Feel the need to practice ?
    Say hello to [JavasScript30].
 
