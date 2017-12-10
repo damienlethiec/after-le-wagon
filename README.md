@@ -132,8 +132,9 @@ list, I am an expert in none of these technologies).
 
 ### Try something different in back-end
 
-1. Learn a functional language. Elixir and Phoenix (the most popular framework
-   for Elixir) are great choices for Rubyist as Elixir was written by a former
+1. Learn a functional language. [Elixir](http://elixir-lang.github.io/) and
+   [Phoenix](http://phoenixframework.org/) (the most popular framework for
+   Elixir) are great choices for Rubyist as Elixir was written by a former
    Rails core contributor.
 
 ### Introduce yourself to data-science
@@ -145,10 +146,11 @@ list, I am an expert in none of these technologies).
 ### Focus on front-end
 
 1. Improve your CSS skills
-2. Learn a trendy JS library (React or Vue.js for example). Good resources
-   include Wes Bos stuffs or EggHead tutorial. I personnaly have a EggHead
-   subscription as it allows to quickly get introduced to new topics before
-   going deeper by yourself if it catches your interest.
+2. Learn a trendy JS library (React or Vue.js for example). One of the best
+   website for updated lessons is [egghead](https://egghead.io/). I do personnaly
+   have a subscription as it allows to quickly get introduced to new topics before
+   going deeper by yourself if it catches your interest (it's sometimes written
+   directly by the founders too) !
 
 ### Become a mobile developer
 
@@ -172,4 +174,4 @@ every day. Here is a list of the main ones I can think of.
 
 If you are a teacher, TA or experienced alumni of Le Wagon, do not hesitate to
 fork this repository and send me a pull request to improve this learning path. I
-am sure it could be much better ;)
+am sure it could be much better. ;)
