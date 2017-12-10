@@ -60,7 +60,7 @@ StackOverflow but are sometimes more qualitative/recent !
 ## How to progress after Le Wagon
 
 Here are my personal advice on how to progress after Le Wagon. I myself did/read
-half of the resources and heard really good reviews from Le Wagon alumnus about
+half of the resources and heard really good reviews from Le Wagon alumnis about
 the other ones. You can find free PDF of most of the following books on the web
 but, if you can, please support the authors ;)
 
