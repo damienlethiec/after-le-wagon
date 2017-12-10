@@ -169,6 +169,23 @@ list, I am an expert in none of these technologies).
 1. Then, if you're conviced and want to create native mobile apps for Android &
    iPhone, feel free to buy some [Full Stack courses] from Stephen Grider !
    :tada: They aren't very expensive, 10$ each.
+1. If you're not really into JavaScript, you can try some new things like
+   [Jekyll], [Middleman] or [Hanami] (similar to Rails).
+
+### Tasty treats for Web developers
+
+I personally enjoy podcasts a lot. You can listen to them anywhere (bus, car
+etc...), there a plenty of them and it's a great way to be aware of the trends
+while being busy doing something else.
+
+1. One of them is [Syntax], by Wes Bos & Scott Tolinski, creator of
+   [LevelUpTuts], a cool dude too. Their show is so funny and you learn a lot of
+   things about pretty much all.
+1. [Le Ruby Nouveau] is a more classic one but it's nice too. Oh and they have a
+   [Slack] too, join it. As my Grand Ma always says: the more Ruby Devs,
+   the better ! :muscle:
+1. [The Web Ahead], didn't listened to it yet but some people recommended it to
+   me, so it's probably nice.
 
 ## Other important resources
 
@@ -218,6 +235,9 @@ am sure it could be much better. ;)
 [egghead]: https://egghead.io/
 [presentation]: https://youtu.be/_ZTT9kw3PIE
 [slides]: http://slides.com/fcatuhe/react-on-rails#/
+[Jekyll]: https://jekyllrb.com/
+[Middleman]: https://middlemanapp.com/
+[Hanami]: http://hanamirb.org/
 [Full Stack courses]: https://www.rallycoding.com/
 [CSS]: http://cssreference.io/
 [HTML]: http://htmlreference.io/
@@ -226,3 +246,8 @@ am sure it could be much better. ;)
 [Rails]: https://github.com/bbatsov/rails-style-guide/
 [Ruby Weekly]: http://rubyweekly.com/
 [Exercism]: http://exercism.io/
+[Syntax]: https://syntax.fm/
+[LevelUpTuts]: https://www.youtube.com/user/LevelUpTuts
+[Le Ruby Nouveau]: https://lerubynouveau.fr/
+[Slack]: http://parisrb-slack-invite.herokuapp.com/
+[The Web Ahead]: http://thewebahead.net/
