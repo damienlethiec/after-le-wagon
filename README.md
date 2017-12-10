@@ -154,7 +154,7 @@ list, I am an expert in none of these technologies).
    iPhone, learn React Native with these [Full Stack courses] from Stephen Grider !
    :tada:
 
-#### Get into DevOps
+### Get into DevOps
 
 1. Enjoy a funny dive into DevOps with [The Phoenix Project].
 1. If you want to know how to deploy your website outside of Heroku, check this tutorial on the combo [Dokku + DigitalOcean] !
