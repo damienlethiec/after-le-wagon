@@ -232,5 +232,5 @@ am sure it could be much better. ;) :sparkles:
 [syntax]: https://syntax.fm/
 [le ruby nouveau]: https://lerubynouveau.fr/
 [ruby monk]: https://rubymonk.com/
-[this blog post serie]: https://evilmartians.com/chronicles/evil-front-part-1
+[this blog posts serie]: https://evilmartians.com/chronicles/evil-front-part-1
 [plenty of them]: https://github.com/sotayamashita/awesome-css#frameworks-art
