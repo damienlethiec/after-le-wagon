@@ -170,7 +170,7 @@ every day. Here is a list of the main ones I can think of.
 1. [Ruby Weekly] newsletter
 1. [Exercism] to test your skills with great coding challenges
 1. [Ruby Monk], chill design & enteresting exercices
-1. Cool potcasts like [Syntax] and [Le Ruby Nouveau]
+1. Cool podcasts like [Syntax] and [Le Ruby Nouveau]
 1. How to [automate] your linting in Rails with Rubocop (+ don't forget to integrate it in your text editor)
 1. Do you want more? Check this [resource] by a former student with a ton of
    miscellaneous cools links ! :star2:
