@@ -92,11 +92,12 @@ Because of course!
 
 1. Read the [Rails guides]
 1. Read [The Rails 5 Way]
+1. Read [Rails Anti-Patterns]
 
 #### To go further
 
-1. Read [Rails Anti-Patterns]
 1. Subscribe to [Go Rails]
+1. Subscribe to [Drifting Ruby]
 
 ### Get fluent in Javascript
 
@@ -104,15 +105,13 @@ Javascript is primordial but you don't know it well after Le Wagon. Take some
 time to improve your skills. [Wes Bos] :crown: is one of the best teacher to
 start learning JavaScript. He has a good amount of free stuff.
 
-1. Want to know the crazy new hot stuff like ES6, ES7 and ESNext ? Check
-   [ES6 for everyone]
-1. Want to make 1 awesome challenge per day ? Feel the need to practice ?
-   Say hello to [JavasScript30].
+1. Feel the need to practice ? Do the free [JavasScript30] course.
+1. Want to learn the latest JS synthax ? Check [ES6 for everyone]
 
 #### To go further
 
 1. Read the [You don't know JS] books (available for free on Github).
-1. [JavaScript: The Good Parts], a must read.
+1. [JavaScript: The Good Parts] is still a must read.
 
 ## After all of this is done
 
@@ -132,37 +131,29 @@ list, I am an expert in none of these technologies).
 1. Learn a functional language. [Elixir] and [Phoenix] (the most popular
    framework for Elixir) are great choices for Rubyist as Elixir was written by
    a former Rails core contributor.
+1. I heard every good developer should be familiar with at least one compiled
+   language. [Go] is still safe pick but [Crystal] could be an interesting
+   choice for Rubyist.
 
 ### Introduce yourself to data-science
 
-1. I am currently following the [Data Analyst Nanodegree on Udacity]. It have
+1. I am currently following the [Data Analyst Nanodegree on Udacity]. It has
    been great so far!
 
-### Get into web design
+### Focus on front-end... and go into mobile
 
 1. Learn how to structure properly your vanilla CSS with [BEM]: for reusable
    components & a real naming convention for your next big projects.
-1. Bootstrap is nice but you want to discover other CSS frameworks ? There are
-   [plenty of them]. Check out [Haml] for _a bit_ more readable HTML too ! :D
 1. Discover [Flexbox] and CSS Grid !
-
-### Discover a front end framework...and go into mobile
-
 1. Learn a trendy JS library (React or Vue.js for example) in [egghead]. Get a
    paid subscription, it is worthy.
-1. Go through [this blog posts serie] by a former Le Wagon student to setup your
-   front in Rails
-1. Get hyped by the possibilites of ReactJS and how to pair it to your Rails app
-   with these [slides].
 1. Then, if you're conviced and want to create native mobile apps for Android &
    iPhone, learn React Native with these [Full Stack courses] from Stephen
    Grider ! :tada:
 
-### Get into DevOps
+### Learn DevOps
 
 1. Enjoy a funny dive into DevOps with [The Phoenix Project].
-1. If you want to know how to deploy your website outside of Heroku, check this
-   tutorial on the combo [Dokku + DigitalOcean] !
 
 ## Other important resources
 
@@ -176,8 +167,7 @@ every day. Here is a list of the main ones I can think of.
 1. [Exercism] to test your skills with great coding challenges
 1. [Ruby Monk], chill design & enteresting exercices
 1. Cool podcasts like [Syntax] and [Le Ruby Nouveau]
-1. How to [automate] your linting in Rails with Rubocop (+ don't forget to
-   integrate it in your text editor)
+1. A new way to [setup your front in Rails], by a former Le Wagon student
 1. Do you want more? Check this [resource] by a former student with a ton of
    miscellaneous cools links ! :star2:
 
@@ -211,13 +201,8 @@ am sure it could be much better. ;) :sparkles:
 [phoenix]: http://phoenixframework.org/
 [data analyst nanodegree on udacity]: https://www.udacity.com/course/data-analyst-nanodegree--nd002
 [bem]: http://getbem.com/
-[materialize]: http://materializecss.com/
-[bulma]: https://bulma.io/
-[carbon design system]: http://carbondesignsystem.com/components/overview
-[haml]: http://haml.info/
 [flexbox]: https://flexbox.io/
 [egghead]: https://egghead.io/
-[slides]: http://slides.com/fcatuhe/react-on-rails#/
 [full stack courses]: https://www.rallycoding.com/
 [resource]: https://lewagon-alumni.slack.com/files/U04E9FXS0/F0FQC6QKW/Le_Wagon__et_apres__
 [css]: http://cssreference.io/
@@ -227,10 +212,10 @@ am sure it could be much better. ;) :sparkles:
 [rails]: https://github.com/bbatsov/rails-style-guide/
 [ruby weekly]: http://rubyweekly.com/
 [exercism]: http://exercism.io/
-[automate]: https://medium.com/@adrienpoly/add-rubocop-and-guard-to-your-rails-app-bf7a19634de5
-[dokku + digitalocean]: http://www.rubyfleebie.com/how-to-use-dokku-on-digitalocean-and-deploy-rails-applications-like-a-pro/
 [syntax]: https://syntax.fm/
 [le ruby nouveau]: https://lerubynouveau.fr/
 [ruby monk]: https://rubymonk.com/
-[this blog posts serie]: https://evilmartians.com/chronicles/evil-front-part-1
-[plenty of them]: https://github.com/sotayamashita/awesome-css#frameworks-art
+[setup your front in rails]: https://evilmartians.com/chronicles/evil-front-part-1
+[drifting ruby]: https://www.driftingruby.com/
+[go]: https://golang.org/
+[crystal]: https://crystal-lang.org/
