@@ -100,7 +100,9 @@ Because of course!
 
 ### Get fluent in Javascript
 
-Javascript is primordial but you don't know it well after Le Wagon. Take some time to improve your skills. [Wes Bos] :crown: is one of the best teacher to start learning JavaScript. He has a good amount of free stuff.
+Javascript is primordial but you don't know it well after Le Wagon. Take some
+time to improve your skills. [Wes Bos] :crown: is one of the best teacher to
+start learning JavaScript. He has a good amount of free stuff.
 
 1. Want to know the crazy new hot stuff like ES6, ES7 and ESNext ? Check
    [ES6 for everyone]
@@ -146,18 +148,21 @@ list, I am an expert in none of these technologies).
 
 ### Discover a front end framework...and go into mobile
 
-1. Learn a trendy JS library (React or Vue.js for example) in [egghead]. Get a paid subscription, it is worthy.
-1. Go through [this blog posts serie] by a former Le Wagon student to setup your front in Rails
+1. Learn a trendy JS library (React or Vue.js for example) in [egghead]. Get a
+   paid subscription, it is worthy.
+1. Go through [this blog posts serie] by a former Le Wagon student to setup your
+   front in Rails
 1. Get hyped by the possibilites of ReactJS and how to pair it to your Rails app
    with these [slides].
 1. Then, if you're conviced and want to create native mobile apps for Android &
-   iPhone, learn React Native with these [Full Stack courses] from Stephen Grider !
-   :tada:
+   iPhone, learn React Native with these [Full Stack courses] from Stephen
+   Grider ! :tada:
 
 ### Get into DevOps
 
 1. Enjoy a funny dive into DevOps with [The Phoenix Project].
-1. If you want to know how to deploy your website outside of Heroku, check this tutorial on the combo [Dokku + DigitalOcean] !
+1. If you want to know how to deploy your website outside of Heroku, check this
+   tutorial on the combo [Dokku + DigitalOcean] !
 
 ## Other important resources
 
@@ -170,8 +175,9 @@ every day. Here is a list of the main ones I can think of.
 1. [Ruby Weekly] newsletter
 1. [Exercism] to test your skills with great coding challenges
 1. [Ruby Monk], chill design & enteresting exercices
-1. Cool potcasts like [Syntax] and [Le Ruby Nouveau]
-1. How to [automate] your linting in Rails with Rubocop (+ don't forget to integrate it in your text editor)
+1. Cool podcasts like [Syntax] and [Le Ruby Nouveau]
+1. How to [automate] your linting in Rails with Rubocop (+ don't forget to
+   integrate it in your text editor)
 1. Do you want more? Check this [resource] by a former student with a ton of
    miscellaneous cools links ! :star2:
 
@@ -226,5 +232,5 @@ am sure it could be much better. ;) :sparkles:
 [syntax]: https://syntax.fm/
 [le ruby nouveau]: https://lerubynouveau.fr/
 [ruby monk]: https://rubymonk.com/
-[this blog post serie]: https://evilmartians.com/chronicles/evil-front-part-1
+[this blog posts serie]: https://evilmartians.com/chronicles/evil-front-part-1
 [plenty of them]: https://github.com/sotayamashita/awesome-css#frameworks-art
