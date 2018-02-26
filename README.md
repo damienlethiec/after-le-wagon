@@ -135,11 +135,6 @@ list, I am an expert in none of these technologies).
    language. [Go] is still safe pick but [Crystal] could be an interesting
    choice for Rubyist.
 
-### Introduce yourself to data-science
-
-1. I am currently following the [Data Analyst Nanodegree on Udacity]. It has
-   been great so far!
-
 ### Focus on front-end... and go into mobile
 
 1. Learn how to structure properly your vanilla CSS with [BEM]: for reusable
