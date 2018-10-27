@@ -130,7 +130,6 @@ list, I am an expert in none of these technologies).
 1. Andrew NG [Machine Learning] and [Deep Learning Specialization] courses are best in class
 1. If you learn best "top down", give [Fast.ai] a try
 1. Tired of Moocs? Enroll in [Dataquest]
-1. Want to go deeper? [Lambda School] is slowly becoming a reference
 
 ### Try something different in back-end
 
@@ -197,7 +196,6 @@ am sure it could be much better. ;) :sparkles:
 [Deep Learning Specialization]: https://www.coursera.org/specializations/deep-learning
 [Fast.ai]: http://www.fast.ai/
 [Dataquest]: https://www.dataquest.io/
-[Lambda School]: https://lambdaschool.com/
 [elixir]: http://elixir-lang.github.io/
 [phoenix]: http://phoenixframework.org/
 [bem]: http://getbem.com/
