@@ -102,10 +102,9 @@ Because of course!
 ### Get fluent in Javascript
 
 Javascript is primordial but you don't know it well after Le Wagon. Take some
-time to improve your skills. [Wes Bos] :crown: is one of the best teacher to
-start learning JavaScript. He has a good amount of free stuff.
+time to improve your skills.
 
-1. Feel the need to practice ? Do the free [JavasScript30] course.
+1. Feel the need to practice ? Do the free [JavasScript30] course by [Wes Bos].
 1. Want to learn the latest JS synthax ? Check [ES6 for everyone]
 
 #### To go further
@@ -116,15 +115,22 @@ start learning JavaScript. He has a good amount of free stuff.
 ## After all of this is done
 
 Web development is full of hype. However, I would not recommend you to learn the
-last Javascript library (I know you want to ;) ) just after Le Wagon. Take the
+latest Javascript library (I know you want to ;) ) just after Le Wagon. Take the
 time to master your existing skills before diving into something more advanced
 alone. Below are some options for when you feel comfortable (no real reading
 list, I am an expert in none of these technologies).
 
 ### Go back to the roots to became a real software engineer
 
-1. It is not too late to learn Computer Science. Here is [a program I will do in
-   2018]. We built an awesome community around it, join our [Discord].
+1. It is not too late to learn Computer Science. It will be a lot of work but you can follow the [Teach Yourself CS] program
+1. Do the [Recurse Center], it seems to be life changing.
+
+### Learn Data Science to have the skill of the future
+
+1. Andrew NG [Machine Learning] and [Deep Learning Specialization] courses are best in class
+1. If you learn best "top down", give [Fast.ai] a try
+1. Tired of Moocs? Enroll in [Dataquest]
+1. Want to go deeper? [Lambda School] is slowly becoming a reference
 
 ### Try something different in back-end
 
@@ -137,14 +143,11 @@ list, I am an expert in none of these technologies).
 
 ### Focus on front-end... and go into mobile
 
-1. Learn how to structure properly your vanilla CSS with [BEM]: for reusable
-   components & a real naming convention for your next big projects.
-1. Discover [Flexbox] and CSS Grid !
+1. Improve your CSS skills: structure it properly your vanilla CSS with [BEM].
 1. Learn a trendy JS library (React or Vue.js for example) in [egghead]. Get a
    paid subscription, it is worthy.
 1. Then, if you're conviced and want to create native mobile apps for Android &
-   iPhone, learn React Native with these [Full Stack courses] from Stephen
-   Grider ! :tada:
+   iPhone, learn React Native (there are good courses in [egghead] too)
 
 ### Learn DevOps
 
@@ -155,13 +158,11 @@ list, I am an expert in none of these technologies).
 You should know about some resources. They will help you a ton in your code
 every day. Here is a list of the main ones I can think of.
 
-1. [CSS] and [HTML] references
+1. [CSS] and [HTML] references (+ [BEM] to learn to structure your CSS)
 1. [Awesome Ruby]
 1. [Ruby] and [Rails] style guides
 1. [Ruby Weekly] newsletter
 1. [Exercism] to test your skills with great coding challenges
-1. [Ruby Monk], chill design & enteresting exercices
-1. Cool podcasts like [Syntax] and [Le Ruby Nouveau]
 1. A new way to [setup your front in Rails], by a former Le Wagon student
 1. Do you want more? Check this [resource] by a former student with a ton of
    miscellaneous cools links ! :star2:
@@ -185,21 +186,23 @@ am sure it could be much better. ;) :sparkles:
 [the rails 5 way]: https://leanpub.com/tr5w
 [rails anti-patterns]: https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814
 [go rails]: https://gorails.com
-[wes bos]: https://twitter.com/wesbos
+[wes bos]: https://wesbos.com/
 [es6 for everyone]: https://es6.io/
 [javasscript30]: https://javascript30.com/
 [you don't know js]: https://github.com/getify/You-Dont-Know-JS
 [javascript: the good parts]: http://shop.oreilly.com/product/9780596517748.do
-[a program i will do in 2018]: https://teachyourselfcs.com/
-[discord]: https://jointeachyourselfcs.carrd.co/
+[Teach Yourself CS]: https://teachyourselfcs.com/
+[Recurse Center]: https://www.recurse.com/
+[Machine Learning]: https://fr.coursera.org/learn/machine-learning
+[Deep Learning Specialization]: https://www.coursera.org/specializations/deep-learning
+[Fast.ai]: http://www.fast.ai/
+[Dataquest]: https://www.dataquest.io/
+[Lambda School]: https://lambdaschool.com/
 [elixir]: http://elixir-lang.github.io/
 [phoenix]: http://phoenixframework.org/
-[data analyst nanodegree on udacity]: https://www.udacity.com/course/data-analyst-nanodegree--nd002
 [bem]: http://getbem.com/
 [flexbox]: https://flexbox.io/
 [egghead]: https://egghead.io/
-[full stack courses]: https://www.rallycoding.com/
-[resource]: https://lewagon-alumni.slack.com/files/U04E9FXS0/F0FQC6QKW/Le_Wagon__et_apres__
 [css]: http://cssreference.io/
 [html]: http://htmlreference.io/
 [awesome ruby]: https://github.com/markets/awesome-ruby
@@ -207,9 +210,6 @@ am sure it could be much better. ;) :sparkles:
 [rails]: https://github.com/bbatsov/rails-style-guide/
 [ruby weekly]: http://rubyweekly.com/
 [exercism]: http://exercism.io/
-[syntax]: https://syntax.fm/
-[le ruby nouveau]: https://lerubynouveau.fr/
-[ruby monk]: https://rubymonk.com/
 [setup your front in rails]: https://evilmartians.com/chronicles/evil-front-part-1
 [drifting ruby]: https://www.driftingruby.com/
 [go]: https://golang.org/
