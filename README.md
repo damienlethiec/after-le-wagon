@@ -125,7 +125,7 @@ list, I am an expert in none of these technologies).
 1. It is not too late to learn Computer Science. It will be a lot of work but you can follow the [Teach Yourself CS] program
 1. Do the [Recurse Center], it seems to be life changing.
 
-### Learn Data Science to have the skill of the future
+### Learn Data Science, the skill of the future
 
 1. Andrew NG [Machine Learning] and [Deep Learning Specialization] courses are best in class
 1. If you learn best "top down", give [Fast.ai] a try
