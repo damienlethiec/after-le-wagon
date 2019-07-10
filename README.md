@@ -98,6 +98,7 @@ Because of course!
 
 1. Subscribe to [Go Rails]
 1. Subscribe to [Drifting Ruby]
+1. Subscribe to [Thoughtbot Upcase]
 
 ### Get fluent in Javascript
 
@@ -210,5 +211,6 @@ am sure it could be much better. ;) :sparkles:
 [exercism]: http://exercism.io/
 [setup your front in rails]: https://evilmartians.com/chronicles/evil-front-part-1
 [drifting ruby]: https://www.driftingruby.com/
+[Thoughtbot Upcase]: https://thoughtbot.com/upcase/practice
 [go]: https://golang.org/
 [crystal]: https://crystal-lang.org/
