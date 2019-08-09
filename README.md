@@ -106,6 +106,7 @@ time to improve your skills.
 
 1. Feel the need to practice ? Do the free [JavasScript30] course by [Wes Bos].
 1. Want to learn the latest JS synthax ? Check [ES6 for everyone]
+1. Want an interactive JavaScript course in the browser? Check [learnjavascript.online](https://learnjavascript.online)
 
 #### To go further
 
