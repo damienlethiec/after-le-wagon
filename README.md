@@ -30,38 +30,33 @@ most of the time it will narrow the scope of the problem. Good developers are
 (almost) always happy when they see an error message because they know it will
 help them solve their bug.
 
-### Become a binding.pry god
 
-When the error message does not directly give you an answer, learn how to debug
-with `binding.pry` (or `debugger` for Javascript). Every time I see a bug I
-don't quite understand, the first thing I do is put a `binding.pry` in my code
+### Become a debugging god
+
+When the error message does not directly give you an answer, learn how to debug using breakpoints. Every time I see a bug I
+don't quite understand, the first thing I do is put a breakpoint in my code
 to see what is going on and how do my variables look like at this specific
-moment. With good `binding.pry` skills, you will rock in the developer world.
+moment. With good debugging skills, you will rock in the developer world.
+
+For more info, see [the debugging Rails doc].
 
 P.S: Aaron Patterson, one of the most famous Ruby developer, is a "puts
 debugger". It is another way to deal with errors. Enjoy
 [this article] to learn more.
 
-### Learn to Google a problem
+### Learn to find solutions to your problem online
 
-When you are facing a problem you really don't know, get used to Google it.
-99.9% of the times, you will find somebody who had a pretty similar problem on
-StackOverflow. Google skills are the most important ones for a developer.
+When you are facing a problem you really don't know, get used to finding the solution online.
 
-Other places you can find some help are: [Reddit]
-and also directly on Github, in the [issues] section. There, you can ask your
-question to people working with the same tool as you. Sometimes you also get a
-reply directly from the creator of the project.
-
-I'm talking about these two because they are not as much referenced as
-StackOverflow but are sometimes more qualitative/recent !
+- Google and/or [StackOverflow] : By googling your problem, you will find 99.9% of the times somebody who had a pretty similar problem on StackOverflow. Learn to be precise in your google searches to get the best result and always challenge the solutions you find.
+- Large Language Models (LLM) : New addition in 2024, Large Language Models are getting really good at helping you debug (and build) your apps. I use GPT-4 and Copilot every day and it saves me countless of time. Just remember that the code they produce still need to be checked and adapted most of the time :wink:
+- The source code : As you get more experienced, you will more and more encounter challenges that are less documented. Build the habit of looking at the source code of the packages you use when needed. Use `bundle open gem_x` in your terminal to see the code of a Ruby gem. It is often of great value and can even encourage you to contribute to open source.
 
 ## How to progress after Le Wagon
 
-Here are my personal advice on how to progress after Le Wagon. I myself did/read
-half of the resources and heard really good reviews from Le Wagon alumni about
+Here are my personal advice on how to progress after Le Wagon. I myself read most of the resources and heard really good reviews from Le Wagon alumni about
 the other ones. You can find free PDF of most of the following books on the web
-but, if you can, please support the authors. ;)
+but, if you can, please support the authors :money_with_wings:
 
 ### Get your basics right
 
@@ -79,24 +74,20 @@ I was doing Le Wagon today, I would read the resources below directly after it.
 
 If you know Ruby well, Rails will be so much easier!
 
-1. Read [Eloquent Ruby]
-1. Read [99 bottles of OOP]
-
-#### To go further
-
-1. Subscribe to [Ruby Tapas]
+1. Read [Eloquent Ruby] (oldie but goodie)
+1. Read [99 bottles of OOP] (or anything written by Sandi Metz)
 
 ### Master Rails
 
 Because of course!
 
-1. Read the [Rails guides]
-1. Read [The Rails 5 Way]
-1. Read [Rails Anti-Patterns]
+1. Read the [Rails guides], to get the basics right
+1. Subscribe to [Go Rails], to stay up to date
+1. Read [Layered Design and the Extended Rails Way], to nail more advanced patterns
 
 #### To go further
 
-1. Subscribe to [Go Rails]
+1. Read [The Rails 7 Way]
 1. Subscribe to [Drifting Ruby]
 
 ### Get fluent in Javascript
@@ -104,51 +95,53 @@ Because of course!
 Javascript is primordial but you don't know it well after Le Wagon. Take some
 time to improve your skills.
 
-1. Feel the need to practice ? Do the free [JavasScript30] course by [Wes Bos].
-1. Want to learn the latest JS synthax ? Check [ES6 for everyone]
+1. Feel the need to practice ? Do the free [JavasScript30] course.
+1. Improve your JS in Rails skills by learning Hotwire with [Hotrails]
 
 #### To go further
 
 1. Read the [You don't know JS] books (available for free on Github).
-1. [JavaScript: The Good Parts] is still a must read.
 
 ## After all of this is done
 
 Web development is full of hype. However, I would not recommend you to learn the
-latest Javascript library (I know you want to ;) ) just after Le Wagon. Take the
-time to master your existing skills before diving into something more advanced
-alone. Below are some options for when you feel comfortable (no real reading
-list, I am an expert in none of these technologies).
+latest Javascript library (I know you want to :wink: ) just after Le Wagon. Take the
+time to master your existing skillset before diving into something more advanced
+alone. Below are some options for when you feel comfortable. Disclaimer: I am an expert in none of these technologies.
 
 ### Go back to the roots to became a real software engineer
 
-1. It is not too late to learn Computer Science. It will be a lot of work but you can follow the [Teach Yourself CS] program
+1. It is not too late to learn Computer Science. It will be a lot of work but you can follow the [Teach Yourself CS] program and get your self-taught degree.
 1. Do the [Recurse Center], it seems to be life changing.
 
 ### Learn Data Science, the skill of the future
 
-1. Andrew NG [Machine Learning] and [Deep Learning Specialization] courses are best in class
 1. If you learn best "top down", give [Fast.ai] a try
+1. Andrew NG [Machine Learning] course is still a great ressource
 1. Tired of Moocs? Enroll in [Dataquest]
 
 ### Try something different in back-end
 
-1. Learn a functional language. [Elixir] and [Phoenix] (the most popular
-   framework for Elixir) are great choices for Rubyist as Elixir was written by
-   a former Rails core contributor.
-1. I heard every good developer should be familiar with at least one compiled
-   language. [Go] is still safe pick but [Crystal] could be an interesting
-   choice for Rubyist.
+Curious about the different ways you can write code ? Declarative, functional, imperative, there is something for every way of thinking. So why not learn a new language ?
+
+[Exercism] is a great platform to give a new language a try !
 
 ### Focus on front-end... and go into mobile
 
-1. Improve your CSS skills: structure it properly your vanilla CSS with [BEM].
-1. Learn a trendy JS library (React or Vue.js for example) in [egghead]. Get a
-   paid subscription, it is worthy.
-1. Then, if you're conviced and want to create native mobile apps for Android &
-   iPhone, learn React Native (there are good courses in [egghead] too)
+I am really not a front-end expert ! Please forgive my mistakes and my lack of ressources :wink:
 
-### Learn DevOps
+1. Improve your design skills, and learn [Tailwind], it is amazing.
+1. Learn a trendy JS library (React or Vue.js for example)
+1. Switch to mobile and learn to create native apps for Android & iPhone
+
+### Understand your users better and improve your product skills
+
+Product Management is a really natural path for new (or old) Le Wagon student.
+
+1. As a Basecamp fan, I really like the [Shape Up] methodology.
+1. I heard [Transformed], the last book by Marty Cagan, is even better than Inspired
+
+### Dive deeper and discover DevOps
 
 1. Enjoy a funny dive into DevOps with [The Phoenix Project].
 
@@ -159,56 +152,39 @@ every day. Here is a list of the main ones I can think of.
 
 1. [CSS] and [HTML] references (+ [BEM] to learn to structure your CSS)
 1. [Awesome Ruby]
-1. [Ruby] and [Rails] style guides
+1. [Ruby] and [Rails] style guides (or use [standard])
 1. [Ruby Weekly] newsletter
-1. [Exercism] to test your skills with great coding challenges
-1. A new way to [setup your front in Rails], by a former Le Wagon student
-1. Do you want more? Check this [resource] by a former student with a ton of
-   miscellaneous cools links ! :star2:
 
-## Contributing
-
-If you are a teacher, TA or experienced alumni of Le Wagon, do not hesitate to
-fork this repository and send me a pull request to improve this learning path. I
-am sure it could be much better. ;) :sparkles:
-
+[the debugging rails doc]: https://guides.rubyonrails.org/debugging_rails_applications.html
 [this article]: https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html
-[reddit]: https://www.reddit.com/r/rails/
-[issues]: https://github.com/rails/rails/issues
-[computer science distilled]: https://leanpub.com/computer-science-distilled
+[stackoverflow]: https://stackoverflow.com/
+[computer science distilled]: https://code.energy/computer-science-distilled/
 [ry's git tutorial]: https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC
 [the phoenix project]: https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
+[teach yourself CS]: https://teachyourselfcs.com/
 [eloquent ruby]: http://eloquentruby.com/
 [99 bottles of oop]: https://www.sandimetz.com/99bottles/
-[ruby tapas]: https://www.rubytapas.com/
 [rails guides]: http://guides.rubyonrails.org/
-[the rails 5 way]: https://leanpub.com/tr5w
-[rails anti-patterns]: https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814
+[layered design and extended rails way]: https://evilmartians.com/chronicles/it-deserved-its-own-tome-layered-design-and-the-extended-rails-way
 [go rails]: https://gorails.com
-[wes bos]: https://wesbos.com/
-[es6 for everyone]: https://es6.io/
+[the rails 7 way]: https://leanpub.com/therails7way
+[drifting ruby]: https://www.driftingruby.com/
 [javasscript30]: https://javascript30.com/
 [you don't know js]: https://github.com/getify/You-Dont-Know-JS
-[javascript: the good parts]: http://shop.oreilly.com/product/9780596517748.do
+[hotrails]: https://www.hotrails.dev/
 [Teach Yourself CS]: https://teachyourselfcs.com/
 [Recurse Center]: https://www.recurse.com/
-[Machine Learning]: https://fr.coursera.org/learn/machine-learning
-[Deep Learning Specialization]: https://www.coursera.org/specializations/deep-learning
+[Machine Learning]: https://www.deeplearning.ai/courses/machine-learning-specialization/
 [Fast.ai]: http://www.fast.ai/
 [Dataquest]: https://www.dataquest.io/
-[elixir]: http://elixir-lang.github.io/
-[phoenix]: http://phoenixframework.org/
-[bem]: http://getbem.com/
-[flexbox]: https://flexbox.io/
-[egghead]: https://egghead.io/
+[exercism]: http://exercism.io/
+[tailwind]: https://tailwindcss.com/
+[shape up]: https://basecamp.com/shapeup
+[transformed]: https://www.amazon.fr/Transformed-Moving-Product-Operating-Model/dp/1119697336
 [css]: http://cssreference.io/
 [html]: http://htmlreference.io/
 [awesome ruby]: https://github.com/markets/awesome-ruby
 [ruby]: https://github.com/bbatsov/ruby-style-guide
 [rails]: https://github.com/bbatsov/rails-style-guide/
+[standard]: https://github.com/standardrb/standard
 [ruby weekly]: http://rubyweekly.com/
-[exercism]: http://exercism.io/
-[setup your front in rails]: https://evilmartians.com/chronicles/evil-front-part-1
-[drifting ruby]: https://www.driftingruby.com/
-[go]: https://golang.org/
-[crystal]: https://crystal-lang.org/
