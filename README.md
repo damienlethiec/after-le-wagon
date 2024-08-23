@@ -89,6 +89,7 @@ Because of course!
 
 1. Read [The Rails 7 Way]
 1. Subscribe to [Drifting Ruby]
+1. Lean what is needed for a [production ready Rails app]
 
 ### Get fluent in JavaScript
 
@@ -130,7 +131,8 @@ Curious about the different ways you can write code? Declarative, functional, im
 
 I am really not a front-end expert! Please forgive my mistakes and my lack of resources 😉
 
-1. Improve your design skills and learn [Tailwind], it is amazing.
+1. Improve your design skills with [Refactor UI].
+1. Learn [Tailwind], it is amazing.
 1. Learn a trendy JS library (React or Vue.js, for example).
 1. Switch to mobile and learn to create native apps for Android & iPhone.
 
@@ -138,8 +140,8 @@ I am really not a front-end expert! Please forgive my mistakes and my lack of re
 
 Product Management is a natural path for new (or old) Le Wagon students.
 
+1. [Cracking the PM Career] is the most comprehensive and interesting ressource I know
 1. As a Basecamp fan, I really like the [Shape Up] methodology.
-1. I heard [Transformed], the latest book by Marty Cagan, is even better than Inspired.
 
 ### Dive deeper and discover DevOps
 
@@ -179,7 +181,6 @@ Here is a list of the main ones I can think of.
 [Exercism]: http://exercism.io/
 [Tailwind]: https://tailwindcss.com/
 [Shape Up]: https://basecamp.com/shapeup
-[Transformed]: https://www.amazon.fr/Transformed-Moving-Product-Operating-Model/dp/1119697336
 [CSS]: http://cssreference.io/
 [HTML]: http://htmlreference.io/
 [Awesome Ruby]: https://github.com/markets/awesome-ruby
@@ -187,3 +188,6 @@ Here is a list of the main ones I can think of.
 [Rails]: https://github.com/bbatsov/rails-style-guide/
 [standard]: https://github.com/standardrb/standard
 [Ruby Weekly]: http://rubyweekly.com/
+[Refactoring UI]: https://www.refactoringui.com/
+[production ready Rails app]: https://github.com/ankane/production_rails
+[Cracking the PM Career]: https://www.crackingthepmcareer.com/
