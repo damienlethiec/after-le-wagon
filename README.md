@@ -131,7 +131,7 @@ Curious about the different ways you can write code? Declarative, functional, im
 
 I am really not a front-end expert! Please forgive my mistakes and my lack of resources 😉
 
-1. Improve your design skills with [Refactor UI].
+1. Improve your design skills with [Refactoring UI].
 1. Learn [Tailwind], it is amazing.
 1. Learn a trendy JS library (React or Vue.js, for example).
 1. Switch to mobile and learn to create native apps for Android & iPhone.
